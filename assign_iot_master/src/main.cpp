@@ -14,12 +14,12 @@
 #define RELAY_MODULE_CH2 2  // Kênh 2 (dự phòng), có thể đặt GPIO khác nếu muốn sử dụng sau này
 
 // Thông tin WiFi
-const char* WIFI_SSID = "P0827";
-const char* WIFI_PASSWORD = "TakeItEasy5@";
+const char* WIFI_SSID = "";
+const char* WIFI_PASSWORD = "";
 
 // Thông tin ThingsBoard
 const char* THINGSBOARD_SERVER = "app.coreiot.io";
-const char* TOKEN = "omEC5ilPHDGsFu5Hec6F";
+const char* TOKEN = "";
 constexpr uint16_t THINGSBOARD_PORT = 1883U;
 
 // Kích thước buffer MQTT
