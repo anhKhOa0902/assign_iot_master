@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "PlatformIO_Arduino-Framework_ESP32_Template-Thingsboard",
+			"path": "../PlatformIO_Arduino-Framework_ESP32_Template-Thingsboard"
+		},
+		{
+			"name": "assign_iot",
+			"path": "."
+		},
+		{
+			"name": "IoTLab",
+			"path": "../IoTLab"
+		},
+		{
+			"name": "myproject_Blinky_Led",
+			"path": "../myproject_Blinky_Led"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,2 @@
+#define PROJECT_WIFI_SSID "P0827"
+#define PROJECT_WIFI_PASSWORD "TakeItEasy5@"
